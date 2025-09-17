@@ -1,0 +1,1 @@
+The `.txt` files containing the tracking results will be saved in this folder.
